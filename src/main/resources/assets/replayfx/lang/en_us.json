@@ -1,0 +1,40 @@
+{
+  "key.replayfx.toggle_record": "Start/Stop Recording",
+  "key.replayfx.toggle_playback": "Start/Stop Playback (last recording)",
+  "key.replayfx.open_screen": "Open Recordings List",
+  "key.replayfx.toggle_freecam": "Toggle Free Camera (noclip fly)",
+  "key.replayfx.open_menu": "Open ReplayFX Menu",
+  "key.category.replayfx": "ReplayFX",
+
+  "replayfx.screen.title": "ReplayFX Recordings",
+
+  "replayfx.recording.started": "§a[ReplayFX] Recording started",
+  "replayfx.recording.stopped": "§c[ReplayFX] Recording stopped and saved (%s frames)",
+  "replayfx.playback.started": "§a[ReplayFX] Playback started",
+  "replayfx.playback.stopped": "§c[ReplayFX] Playback stopped",
+  "replayfx.freecam.started": "§b[ReplayFX] Free camera ON \u2014 noclip fly enabled",
+  "replayfx.freecam.stopped": "§7[ReplayFX] Free camera OFF",
+
+  "replayfx.menu.title": "ReplayFX \u2014 Press V for this menu anytime",
+  "replayfx.menu.close": "Close",
+  "replayfx.menu.browse": "Browse Recordings",
+
+  "replayfx.menu.recording.header": "Recording",
+  "replayfx.menu.recording.desc": "Press R anytime to start/stop. Saves to .minecraft/replayfx/ when stopped.",
+  "replayfx.menu.recording.start": "Start Recording",
+  "replayfx.menu.recording.stop": "Stop Recording (and save)",
+
+  "replayfx.menu.playback.header": "Playback",
+  "replayfx.menu.playback.desc": "Press T to quick-replay your last recording, or browse older ones above.",
+  "replayfx.menu.playback.start": "Play Last Recording",
+  "replayfx.menu.playback.stop": "Stop Playback",
+  "replayfx.menu.playback.none": "No Recording Yet",
+
+  "replayfx.menu.freecam.header": "Free Camera",
+  "replayfx.menu.freecam.desc": "Press G to fly freely through blocks. WASD to move, Space/Shift for up/down.",
+  "replayfx.menu.freecam.start": "Enable Free Camera",
+  "replayfx.menu.freecam.stop": "Disable Free Camera",
+
+  "replayfx.menu.saved.header": "Saved Recordings",
+  "replayfx.menu.saved.empty": "No recordings saved yet -- press R to make one."
+}
