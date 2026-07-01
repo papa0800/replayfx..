@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "replayfx",
+  "version": "${version}",
+  "name": "ReplayFX",
+  "description": "Records your gameplay and replays it with a free camera, showing potion effect and critical hit particles.",
+  "authors": ["You"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/replayfx/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.replayfx.ReplayFxClient"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
